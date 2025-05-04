@@ -39,7 +39,7 @@ export const ContentTwo = () => {
       <img
         src={splashLeft}
         alt="splash left"
-        className="absolute -left-20 top-[150px] w-72 sm:w-[400px] opacity-90 z-0 pointer-events-none"
+        className="absolute -left-20 top-[150px] w-72 sm:w-[400px] opacity-90 z-20 pointer-events-none"
       />
 
       {/* Section 2: Coffee styles */}
